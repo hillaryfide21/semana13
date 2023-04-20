@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "774586842907",
+    "project_id": "jardinesunidossa-90165",
+    "storage_bucket": "jardinesunidossa-90165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774586842907:android:71d146f5c1aa865f4b9dbe",
+        "android_client_info": {
+          "package_name": "com.hmadriz10439.jardinesunidossa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774586842907-pfijmtimbam7t58dlkpun82slgif31sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hmadriz10439.jardinesunidossa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "774586842907-tdsjvsv45t5os3qp8l17jbi462qfe6u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PGTTCGm9OrVFnJbjnpBQ90Ks5gT7hfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774586842907-b8bo7t0o5ig682bvmh3v6rnib295ms9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774586842907-jrloiieofbi41g8rkptomhhukmhiobg2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hmadriz10439.jardinesunidossa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
